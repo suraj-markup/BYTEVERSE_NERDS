@@ -50,7 +50,7 @@ function Navbar() {
           </a>
         </li>
         <li>
-          <a href="/LeafPage" className="navbar-links">
+          <a href="https://mayank-012-leafdiseasepredictor-main-hl3now.streamlit.app/" className="navbar-links">
             Detect Disease
           </a>
         </li>

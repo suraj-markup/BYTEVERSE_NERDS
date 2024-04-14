@@ -28,7 +28,7 @@ function Footer() {
           <p className="ft-list-title">Services</p>
           <ul className="ft-list-items">
             <li>
-              <a href="#services">Plant Disease Detection</a>
+              <a href="https://mayank-012-leafdiseasepredictor-main-hl3now.streamlit.app/">Plant Disease Detection</a>
             </li>
             <li>
               <a href="#services">Weather Reports</a>
