@@ -10,6 +10,9 @@ function Home() {
       <div className="home-section">
         <Navbar />
         <Hero/>
+        <Info/>
+        <About/>
+        <Footer/>
         
       </div>
     );
