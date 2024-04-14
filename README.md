@@ -21,8 +21,7 @@ The feature also provide information about associated various types of pollens i
 
 
 ## Demo
-
-Insert gif or link to demo
+https://youtube.com/playlist?list=PLJ7UeV8FmS-ZduKI6bsmCQbgOsdeEd1R5&feature=shared
 
 
 ## Installation
@@ -48,10 +47,20 @@ Insert gif or link to demo
 4. Open Weather API for weather forecast.
 5. Cloudinary for storing media files like photos and videos.
 7. Google Cloud API.
-8. 
+  
+
 ## Deployed Website Link
 
 ## Screenshots
+![Screenshot 2024-04-14 192342](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/d5424736-e309-4888-a4fa-4f3152c010ff)
+![Screenshot 2024-04-14 193108](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/55275f54-3131-4b88-abbc-8b0ca8aa7680)
+![Screenshot 2024-04-14 192925](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/592784f5-e556-4064-ac87-6ef5715bd644)
+![Screenshot 2024-04-14 192720](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/4f5c6d86-5f89-4329-b770-9141cecbefd2)
+![Screenshot 2024-04-14 192550](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/7cbe8e86-c0e2-4c35-9bb2-41dc0dd65d06)
+![Screenshot 2024-04-14 192433](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/3ba8899c-e318-4c26-a0d5-1a1d145a1058)
+![Screenshot 2024-04-14 192358](https://github.com/suraj-markup/BYTEVERSE_NERDS/assets/96483690/434a649b-5a91-404b-965a-21f3ed9392d3)
+
+
 ## Authors
 
 - [Mitali Dwivedi](https://www.github.com/Deflecting-Torque)
