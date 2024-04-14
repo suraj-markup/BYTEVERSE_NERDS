@@ -13,9 +13,7 @@ function Hero() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const handleBookAppointmentClick = () => {
-    navigate("/appointment");
-  };
+  
 
   useEffect(() => {
     const onPageScroll = () => {
@@ -44,13 +42,7 @@ function Hero() {
             Bringing everything right from Sowing to Harvesting.Detect the soil quality based on your location.
             Crop recommendation, Environment condition analysis, generate weather report, air quality, pollen information and plant disease detection.
           </p>
-          <button
-            className="text-appointment-btn"
-            type="button"
-            onClick={handleBookAppointmentClick}
-          >
-            <FontAwesomeIcon icon={faCalendarCheck} /> Book Appointment
-          </button>
+          
           
         </div>
 

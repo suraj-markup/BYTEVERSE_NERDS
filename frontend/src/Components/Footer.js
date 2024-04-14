@@ -13,7 +13,7 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              AnnVirdhi
+              AnnVriddhi
             </p>
             <p className="ft-description">
               Bringing a one stop destination to cater everything from sowing to harvesting.
