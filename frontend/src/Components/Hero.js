@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Farmer2 from "C:/Users/DELL/Desktop/Farmer_frontend/Farmer_Frontend/src/Assests/Farmer2.jpg";
+import Farmer2 from "../Assests/Farmer2.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarCheck, faAngleUp } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate  } from "react-router-dom";
