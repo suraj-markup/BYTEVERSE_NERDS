@@ -27,26 +27,28 @@ Insert gif or link to demo
 
 ## Installation
 
-Install my-project with npm
+```bash
+  npx create-react-app annvridhi
+  npm i install
+```
+## Install the below packages
 
 ```bash
   npm i install
+  npm i react-router-dom
+  npm i react-toastify
+  npm install --save-dev @fortawesome/fontawesome-free
 ```
 
     
 ## Tech Stack
 1. React for frontend
 2. Node.js for backend
-3. Ambeedata API for realtime
-information about soil, pollen, fire alert,
-air quality, water vapour and weather information.
-
+3. Ambeedata API for realtime information about soil, pollen, fire alert, air quality, water vapour and weather information.
 4. Open Weather API for weather forecast.
-5. Cloudinary for storing media files like
-photos and videos.
-
-6. Firebase for secure authentication.
-7. DialogFlow for Chat bot.
+5. Cloudinary for storing media files like photos and videos.
+7. Google Cloud API.
+8. 
 ## Deployed Website Link
 
 ## Screenshots
