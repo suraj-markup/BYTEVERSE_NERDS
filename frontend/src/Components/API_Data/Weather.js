@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import Navbar from "../Navbar";
+import Footer from "../Footer";
 import axios from 'axios';
 import weathercss from "./weathercss.css"; 
 // import GeocodeComponent from "../GeocodeComponent";
@@ -85,6 +87,10 @@ const Weather = () => {
   }
 
   return (
+    <>
+      <Navbar/>
+
+   
     <div className="weather">
       <div className="heading">
         <h1>WEATHER REPORT</h1>
@@ -150,6 +156,8 @@ const Weather = () => {
         </div>
       </div>
     </div>
+    <Footer />
+    </>
   );
 };
 

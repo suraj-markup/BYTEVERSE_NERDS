@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 // import GeocodeComponent from './Component/GeocodeComponent';
 import Navbar from "../Navbar";
-import axios from "axios";
 import Footer from "../Footer";
+import axios from "axios";
 import aircss from "./aircss.css"; 
 import airImg from "./air.jpg"; // Adjust the path to match your file structure
 

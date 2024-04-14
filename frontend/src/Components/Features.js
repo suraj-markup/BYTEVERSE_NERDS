@@ -1,5 +1,8 @@
 import FeatureCard from "./FeatureCard";
 // import Data from "../Data";
+
+import Navbar from "./Navbar";
+import Footer from "./Footer";
 import "../"
 
 const list=[
@@ -37,6 +40,8 @@ const list=[
 
 const Features=()=>{
     return (
+        <>
+        <Navbar/>
         <div className="feature-body ">
             <div className="heading">
                 
@@ -57,6 +62,8 @@ const Features=()=>{
             
 
         </div>
+        <Footer />
+        </>
 
     );
 };

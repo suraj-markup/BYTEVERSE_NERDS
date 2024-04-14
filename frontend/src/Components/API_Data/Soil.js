@@ -1,6 +1,8 @@
 // Get the mean value of the soil property at the queried location and depth
 // bulk density details
 import axios from 'axios';
+import Navbar from "../Navbar";
+import Footer from "../Footer";
 import soilImage from "./soil.jpg"; // Adjust the path to match your file structure
 import soilcss from "./soilcss.css"; 
 import { useState, useEffect } from "react";
@@ -101,6 +103,9 @@ const Soil = () => {
   };
 
   return (
+    <>
+          <Navbar/>
+
     <div className="soil">
       <div className="heading">
         <h1>SOIL REPORT</h1>
@@ -152,6 +157,8 @@ const Soil = () => {
       </div>
       </div>
     </div>
+    <Footer />
+    </>
   );
 };
 
