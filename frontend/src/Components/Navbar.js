@@ -50,7 +50,7 @@ function Navbar() {
           </a>
         </li>
         <li>
-          <a href="#reviews" className="navbar-links">
+          <a href="/LeafPage" className="navbar-links">
             Detect Disease
           </a>
         </li>
@@ -94,19 +94,15 @@ function Navbar() {
           </li>
           <li>
             <a onClick={openNav} href="#reviews">
-              Reviews
+              Detect Disease
             </a>
           </li>
           <li>
             <a onClick={openNav} href="#doctors">
-              Doctors
+              Our Features!
             </a>
           </li>
-          <li>
-            <a onClick={openNav} href="#contact">
-              Contact
-            </a>
-          </li>
+          
         </ul>
       </div>
 

@@ -1,0 +1,9 @@
+.hello1{
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    height: 80vh;
+    background: linear-gradient(to right, #ECF2FF, #FBFCFF);
+}
