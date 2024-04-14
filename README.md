@@ -29,9 +29,9 @@ Insert gif or link to demo
 
 Install my-project with npm
 
-bash
-  npx create-react-app annvirddhi 
-  cd my-project
+```bash
+  npm i install
+```
 
     
 ## Tech Stack
