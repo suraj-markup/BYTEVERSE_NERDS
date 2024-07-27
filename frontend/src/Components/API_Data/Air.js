@@ -15,7 +15,7 @@ const Air = () => {
 
   const handleGeocode = async () => {
       try {
-          const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=AIzaSyDs7aOnJ_NLUgzXRZspzdB5fbPUw-k1An0`);
+          const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=${key}`);
           const data = response.data;
           if (data.results.length > 0) {
               const { lat, lng } = data.results[0].geometry.location;
